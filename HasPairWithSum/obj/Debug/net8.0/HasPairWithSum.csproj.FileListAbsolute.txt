@@ -1,0 +1,14 @@
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/obj/Debug/net8.0/HasPairWithSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/obj/Debug/net8.0/HasPairWithSum.AssemblyInfoInputs.cache
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/obj/Debug/net8.0/HasPairWithSum.AssemblyInfo.cs
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/obj/Debug/net8.0/HasPairWithSum.csproj.CoreCompileInputs.cache
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/bin/Debug/net8.0/HasPairWithSum
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/bin/Debug/net8.0/HasPairWithSum.deps.json
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/bin/Debug/net8.0/HasPairWithSum.runtimeconfig.json
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/bin/Debug/net8.0/HasPairWithSum.dll
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/bin/Debug/net8.0/HasPairWithSum.pdb
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/obj/Debug/net8.0/HasPairWithSum.dll
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/obj/Debug/net8.0/refint/HasPairWithSum.dll
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/obj/Debug/net8.0/HasPairWithSum.pdb
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/obj/Debug/net8.0/HasPairWithSum.genruntimeconfig.cache
+/Users/valero/RiderProjects/ConsoleApp5/HasPairWithSum/obj/Debug/net8.0/ref/HasPairWithSum.dll
